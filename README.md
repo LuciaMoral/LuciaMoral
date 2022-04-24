@@ -7,7 +7,7 @@ My name is Lucia and I have recently finished a Full-Stack Dev course at Le Wago
 
 
 - 🤓 Skills: HTML, CSS, JavaScript, Ruby on Rails, Bootstrap, PostgreSQL, Github, git, AJAX, APIs, Figma,  Heroku 
-- 👨‍💻 All my projects are available here: https://wwww.luciamoral.com 
+- 👨‍💻 All my projects are available here: https://www.luciamoral.com 
 - 🌱 I’m currently learning React (as well as deepening my knowledge in JavaScript)
 - 📫 How to reach me: lmoralbaena@gmail.com 
 - 😄 Pronouns: she/her/hers
